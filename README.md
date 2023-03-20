@@ -12,9 +12,7 @@
 
 
 🔭 Je suis étudiant en BTS SIO (je suis spécialisé dans le développement).<br>👯 J'essaye d'acquérir le plus d'expérience et de compétence possible.<br>🤝Je posterais ici quelque petit projet.<br><br>
-#
 
-#     
 ## Me contacter
 
 <p align="left">
