@@ -8,10 +8,11 @@
 
 **`Developpeur Frontend/Backend/DevOps`**
 ## 💫A propos de moi :
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/ldesfontaine/ldesfontaine/main/assets/random_guys.gif" width="400" height="250" />
+
 
 🔭 Je suis étudiant en BTS SIO (je suis spécialisé dans le développement).<br>👯 J'essaye d'acquérir le plus d'expérience et de compétence possible.<br>🤝Je posterais ici quelque petit projet.<br><br>
 #
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/ldesfontaine/ldesfontaine/main/assets/random_guys.gif" width="400" height="250" />
 
 #     
 ## Me contacter
