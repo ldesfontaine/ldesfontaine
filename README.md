@@ -3,6 +3,10 @@
 
 <h1 align="center"> 🎲 Desfontaine Lucas 🎲 </h1>
 
+<p style="margin: 15px;" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=red&center=true&vCenter=true&lines=Developper+Student+In+L3+Miage;">
+</p>
+
 <hr>
 
 
@@ -17,8 +21,11 @@
 
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/lucas-desfontaine-79370a23a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a target="_blank" href="https://portfolio.ldesfontaine.me"><img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=appveyor" alt="Portfolio"></a>
+<a target="_blank" href="https://portfolio.ldesfontaine.com"><img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=appveyor" alt="Portfolio"></a>
 </p>
+
+<br>
+<br>
 
 ## Languages et Outils:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
