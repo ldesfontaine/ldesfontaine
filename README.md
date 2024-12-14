@@ -16,7 +16,10 @@
 
 
 🔭 Je suis étudiant en L3 MIAGE.<br>👯 J'essaye d'acquérir le plus d'expérience et de compétence possible.<br>🤝Je posterais ici quelque petit projet.
-<br><br>
+<br>
+I'm a Pull Stack Developer.
+just pull things off the Internet and put it into my code.
+<br>
 <br>
 <br><br>
 <br>
