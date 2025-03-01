@@ -15,11 +15,9 @@
 ## 💫About me<br>
 I'm a Pull Stack Developer.<br>
 just pull things off the Internet and put it into my code.<br>
-
-
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/lucas-desfontaine-79370a23a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a target="_blank" href="https://portfolio.ldesfontaine.com"><img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=appveyor" alt="Portfolio"></a>
+<a target="_blank" href="https://ldesfontaine.com"><img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=appveyor" alt="Portfolio"></a>
 </p>
 
 
