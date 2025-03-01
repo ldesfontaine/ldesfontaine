@@ -17,9 +17,6 @@ just pull things off the Internet and put it into my code.<br>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/ldesfontaine/ldesfontaine/main/assets/random_guys.gif" width="400" height="250" />
 
-🔭 Je suis étudiant en L3 MIAGE.<br>👯 J'essaye d'acquérir le plus d'expérience et de compétence possible.<br>🤝Je posterais ici quelque petit projet.
-<br>
-<br>
 <br>
 <br><br>
 <br>
