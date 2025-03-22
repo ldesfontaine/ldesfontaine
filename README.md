@@ -10,7 +10,7 @@
 <hr>
 
 
-**`Developpeur Frontend/Backend/DevOps`**
+**`Developpeur Backend/DevOps`**
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/ldesfontaine/ldesfontaine/main/assets/random_guys.gif" width="400" height="250" />
 ## 💫About me<br>
 I'm a Pull Stack Developer.<br>
