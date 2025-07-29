@@ -1,6 +1,3 @@
-[![MasterHead](https://raw.githubusercontent.com/ldesfontaine/ldesfontaine/main/assets/banner.gif)](https://portfolio.ldesfontaine.me)
-
-
 <h1 align="center"> 🎲 Desfontaine Lucas 🎲 </h1>
 
 <p style="margin: 15px;" align="center">
@@ -10,14 +7,13 @@
 <hr>
 
 
-**`Developpeur Backend/DevOps`**
+**`Developpeur To Cyber**
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/ldesfontaine/ldesfontaine/main/assets/random_guys.gif" width="400" height="250" />
 ## 💫About me<br>
 I'm a Pull Stack Developer.<br>
 just pull things off the Internet and put it into my code.<br>
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/lucas-desfontaine-79370a23a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a target="_blank" href="https://ldesfontaine.com"><img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=appveyor" alt="Portfolio"></a>
 </p>
 
 
