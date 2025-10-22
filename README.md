@@ -1,13 +1,13 @@
 <h1 align="center"> 🎲 Desfontaine Lucas 🎲 </h1>
 
 <p style="margin: 15px;" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=red&center=true&vCenter=true&lines=Developper+Student+In+L3+Miage;">
+  <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=red&center=true&vCenter=true&lines=Cybersecurite+Student;">
 </p>
 
 <hr>
 
 
-**`Developpeur To Cyber**
+**Developpeur To Cyber**
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/ldesfontaine/ldesfontaine/main/assets/random_guys.gif" width="400" height="250" />
 ## 💫About me<br>
 I'm a Pull Stack Developer.<br>
