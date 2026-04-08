@@ -1,48 +1,38 @@
-<h1 align="center"> 🎲 Desfontaine Lucas 🎲 </h1>
+<h1 align="center"> 🛡️ Lucas Desfontaine 🛡️ </h1>
 
-<p style="margin: 15px;" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=red&center=true&vCenter=true&lines=Cybersecurite+Student;">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=F85D7F&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;DevSecOps+Enthusiast;Infrastructure+Automation;Go+%26+Python+Developer;">
 </p>
 
 <hr>
 
+## 💫 À propos de moi
+**Ancien Développeur reconverti en Cybersécurité.** Ma philosophie : "Comprendre pour mieux protéger". Mon passé de dev me permet d'analyser le code en profondeur, tandis que mon présent en Cyber me permet de bâtir des infrastructures résilientes et automatisées.
 
-**Developpeur To Cyber**
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/ldesfontaine/ldesfontaine/main/assets/random_guys.gif" width="400" height="250" />
-## 💫About me<br>
-I'm a Pull Stack Developer.<br>
-just pull things off the Internet and put it into my code.<br>
+- 🔭 Je travaille actuellement sur : **[Zero Trust v2](https://github.com/ldesfontaine/zero-trust)** (IaC, NetBird, Ansible, CrowdSec).
+- 🚀 Projet en cours : **[Bientôt](https://github.com/ldesfontaine/bientot)** (Dashboard de management d'infra écrit en Go).
+- 🛠️ J'ai développé : **[POC-Phantom](https://github.com/ldesfontaine/POC-Phantom)** (Outil d'investigation et de réponse à incident en Python pour l'analyse rapide de VPS compromis).
+- ⚡ Point fort : Automatisation de la défense (Scripting & IaC).
+
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/lucas-desfontaine-79370a23a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+## 🛠️ Stack Technique
 
+### 🔒 Sécurité & Infrastructure
+<img src="https://img.shields.io/badge/Ansible-E03237?style=flat-square&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/NetBird-000000?style=flat-square&logo=wireguard&logoColor=white" /> <img src="https://img.shields.io/badge/CrowdSec-FF0000?style=flat-square&logo=crowdsec&logoColor=white" />
 
-## Languages et Outils:
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
+### 💻 Automatisation & SecOps
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
-[//]: # (<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />)
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="wordpress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-<img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<br/>
+### 🌐 Développement (Background)
+`PHP` `Symfony` `JavaScript` `TypeScript` `MySQL`
 
+<hr>
 
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ldesfontaine&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ldesfontaine&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-<br/>
-
+## 📊 Statistiques GitHub
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lucas's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ldesfontaine&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lucas's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ldesfontaine&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+</p>
