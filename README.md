@@ -10,7 +10,7 @@
 
 - 🔭 Je travaille actuellement sur : **[Zero Trust v2](https://github.com/ldesfontaine/zero-trust)** (IaC, NetBird, Ansible, CrowdSec).
 - 🚀 Projet en cours : **[Bientôt](https://github.com/ldesfontaine/bientot)** (Dashboard de management d’infra écrit en Go).
-- 🛠️ J’ai développé : **[POC-Phantom](https://github.com/ldesfontaine/POC-Phantom)** (Outil d’investigation et de réponse à incident en Python pour l’analyse rapide de VPS compromis).
+- 🛠️ J’ai développé : **[POC-Phantom](https://github.com/ldesfontaine/POC-Phantom)** (Outil d’investigation et de réponse à incident en Go pour l’analyse rapide de VPS compromis).
 - ⚡ Point fort : Automatisation de la défense (Scripting & IaC).
 
 <p align="left">
