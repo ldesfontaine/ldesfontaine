@@ -12,7 +12,6 @@
 - 🛠️ J'ai développé : **[POC-Phantom](https://github.com/ldesfontaine/POC-Phantom)** - outil d'investigation et de réponse à incident en Go pour l'analyse rapide de VPS compromis.
 - 🎓 Formation : **Mastère Expert en Cloud, Sécurité & Infrastructure** - Ynov-Connect (RNCP 7), 2026-2028.
 - ⚡ Point fort : automatisation et IaC, sécurisation by design.
-- 🚀 En recherche d'alternance 2 ans à partir de **septembre 2026** - Lyon / Saint-Étienne.
 
 <p align="left">
 <a target="_blank" href="https://portfolio.ldesfontaine.com"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
