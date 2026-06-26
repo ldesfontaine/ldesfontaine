@@ -1,17 +1,18 @@
 <h1 align="center">⚙️ Lucas Desfontaine ⚙️</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Cloud%2C+Security+%26+Infrastructure+Student;DevSecOps+Enthusiast;Infrastructure+as+Code+Practitioner;Zero+Trust+Architecture;">
+  <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=From+Dev+to+Infrastructure+Security;DevSecOps+Practitioner;Infrastructure+as+Code;Secure-by-default+Self-hosting;">
 </p>
 <hr>
 
 ## 💫 À propos de moi
 
-**Ancien développeur full-stack, je me spécialise en DevSecOps et architecture d'infrastructure.** Ma conviction : pour bien concevoir une infra moderne, il faut comprendre le code qui tourne dessus. Mon parcours dev me sert aujourd'hui à automatiser, sécuriser et orchestrer des systèmes de bout en bout.
+**Ancien développeur full-stack, je me spécialise en DevSecOps et sécurité des infrastructures.** Ma conviction : pour bien concevoir une infra, il faut comprendre le code qui tourne dessus. Mon parcours dev me sert aujourd'hui à automatiser, sécuriser et orchestrer des systèmes de bout en bout.
 
-- 🔭 Je travaille actuellement sur : **[Zero Trust Homelab](https://github.com/ldesfontaine/zero-trust)** - architecture hybride VPS / Raspberry Pi, IaC complet (Terraform + Ansible), réseau mesh WireGuard, IDS/IPS collaboratif (CrowdSec + nftables).
-- 🛠️ J'ai développé : **[POC-Phantom](https://github.com/ldesfontaine/POC-Phantom)** - outil d'investigation et de réponse à incident en Go pour l'analyse rapide de VPS compromis.
-- 🎓 Formation : **Mastère Expert en Cloud, Sécurité & Infrastructure** - Ynov-Connect (RNCP 7), 2026-2028.
-- ⚡ Point fort : automatisation et IaC, sécurisation by design.
+- 🔭 Je construis : **[infractl](https://github.com/ldesfontaine/infractl)**, une CLI *secure-by-default* qui transforme une Debian en edge/DMZ durci (Traefik seul publieur de ports, CrowdSec, nftables INPUT default-deny, admin réservé au tunnel WireGuard). C'est la base de mon **[homelab](https://github.com/ldesfontaine/homelab)** en refonte.
+- 🛠️ POC : **[POC-Phantom](https://github.com/ldesfontaine/POC-Phantom)**, outil de triage en réponse à incident en Go, zéro empreinte sur la machine analysée.
+- 🔎 Veille : **[veille-secu](https://github.com/ldesfontaine/Vielle-Technologique)**, moteur de veille CVE/advisories (NVD, CERT-FR, CISA KEV), en FastAPI.
+- 🎓 Formation : **Mastère Expert en Cloud, Sécurité & Infrastructure**, Ynov-Connect (RNCP 7), 2026-2028.
+- ⚡ Point fort : automatisation, IaC et sécurité *by design*.
 
 <p align="left">
 <a target="_blank" href="https://portfolio.ldesfontaine.com"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
@@ -20,9 +21,9 @@
 
 ## 🛠️ Stack Technique
 
-### ☁️ Cloud & Infrastructure as Code
+### ☁️ Infrastructure as Code & Conteneurs
 
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-E03237?style=flat-square&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-E03237?style=flat-square&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" /> <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
 
 ### 🐧 Systèmes & Réseaux
 
@@ -30,7 +31,7 @@
 
 ### 🔒 Sécurité Opérationnelle
 
-<img src="https://img.shields.io/badge/CrowdSec-2F0743?style=flat-square&logo=crowdsec&logoColor=white" /> <img src="https://img.shields.io/badge/Fail2ban-EE0701?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/UFW-002B36?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/ANSSI%20SecNum-003366?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/CrowdSec-2F0743?style=flat-square&logo=crowdsec&logoColor=white" /> <img src="https://img.shields.io/badge/nftables-111111?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Fail2ban-EE0701?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/SecNumacad%C3%A9mie-ANSSI-003366?style=flat-square" />
 
 ### 💻 Automatisation & Dev
 
@@ -38,7 +39,7 @@
 
 ### 🌐 Background Développement
 
-`Node.js` `Next.js` `TypeScript` `LangChain` `LangGraph` `PHP` `Symfony` `MySQL`
+`Node.js` `Next.js` `TypeScript` `Angular` `LangChain` `LangGraph` `PHP` `Symfony` `Java` `Spring` `MySQL`
 
 <hr>
 
