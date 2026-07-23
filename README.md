@@ -1,5 +1,3 @@
-# Lucas Desfontaine
-
 ## Du dev à la sécurité des infras
 
 Je viens du développement full-stack. Aujourd’hui, je conçois et exploite des
