@@ -8,12 +8,9 @@ avancent ensemble.
 
 ## En ce moment
 
-Your Cloud est mon projet principal pour la suite. Il vise à représenter une
+openCloud est mon projet principal pour la suite. Il vise à représenter une
 infrastructure, observer ses machines et déployer des services depuis une
 interface compréhensible, sans masquer les opérations réellement exécutées.
-
-Le projet suit une règle simple : chaque capacité est d’abord définie, puis
-implémentée et enfin prouvée dans un environnement isolé.
 
 Le dépôt reste privé pendant sa construction. Il sera lié ici lorsque son état
 public représentera fidèlement ce qui est réellement disponible.
